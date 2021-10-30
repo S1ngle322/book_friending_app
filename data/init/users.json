@@ -1,0 +1,17 @@
+[
+  {
+    "userID": "string",
+    "favoriteBooksIds": "Books Ids Array",
+    "matchedUsers": "User Ids Array",
+    "age": "some number without quotes",
+    "gender": "string",
+    "name": "string",
+    "city": "string"
+  },
+
+  {},
+  {},
+  {},
+  {},
+  {}
+]

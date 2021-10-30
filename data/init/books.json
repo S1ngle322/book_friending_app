@@ -1,0 +1,15 @@
+[
+  {
+    "bookId": "string",
+    "book_title": "string",
+    "author": "string",
+    "genres": "string",
+    "book_vector": "Array of numbers",
+    "description": "string"
+  },
+  {},
+  {},
+  {},
+  {},
+  {}
+]

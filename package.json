@@ -1,0 +1,21 @@
+{
+  "name": "book_friending_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "initdata": "npm run build && ts-node -r dotenv/config src/utils/initdataScript.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "@types/mongoose": "^5.7.36",
+    "mongoose": "^5.10.10",
+    "require-dir": "^1.2.0"
+  }
+}
